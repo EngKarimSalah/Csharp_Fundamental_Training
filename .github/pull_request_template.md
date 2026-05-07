@@ -1,3 +1,6 @@
+## Linked Issue
+Closes #[ISSUE_NUMBER]
+
 ## Session Info
 - **Sprint:** SPX
 - **Day:** DX
